@@ -6,8 +6,9 @@ const moment = require('moment-timezone');
 
 // 添加24小时访问的URL数组
 const urls = [
-    'https://argox-q78213664.koyeb.app/',             // 此处可备注名称，例如：glitch
-	  'https://traveling-night-epoxy.glitch.me'        // 此处可备注名称，例如：Back4app
+	'https://argox-q78213664.koyeb.app/',             // 此处可备注名称，例如：glitch
+	'https://traveling-night-epoxy.glitch.me' ,
+	'https://test-keep.onrender.com'// 此处可备注名称，例如：Back4app
 
 ];
 // 添加在01:00至05:00暂停访问，其他时间正常访问的URL数组
