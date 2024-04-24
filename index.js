@@ -8,6 +8,7 @@ const moment = require('moment-timezone');
 const urls = [
 	'https://argox-q78213664.koyeb.app/',             // 此处可备注名称，例如：glitch
 	'https://traveling-night-epoxy.glitch.me' ,
+	'https://61ac657e-fd7e-4683-a5b7-e89dcdf66e2d-00-spkxmb04phx7.kirk.replit.dev/' ,
 	'https://test-keep.onrender.com'// 此处可备注名称，例如：Back4app
 
 ];
