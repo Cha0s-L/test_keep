@@ -9,6 +9,7 @@ const urls = [
 	'https://argox-q78213664.koyeb.app/',             // 此处可备注名称，例如：glitch
 	'https://test-keep-t40n.onrender.com' ,
 	'https://test-keep-three.vercel.app' ,
+	'https://wasmer.78213664.xyz' ,
 	'https://test-keep.onrender.com'// 此处可备注名称，例如：Back4app
 
 ];
